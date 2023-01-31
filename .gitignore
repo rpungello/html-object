@@ -3,3 +3,6 @@
 # Dependencies
 composer.lock
 vendor
+
+# IDE
+/.idea
